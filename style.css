@@ -1,0 +1,41 @@
+<style>
+
+      p {
+        color:green;
+       }   
+   h3>i {
+         color:blue;
+        }
+   #blue {
+          color:blue;
+          }
+   .cls {
+         color:violet;
+        }
+
+   li:hover {
+               text-decoration:underline;
+              }
+	img {
+            padding:40px;
+ padding-top: 0px;
+            }
+         
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+  </style>
